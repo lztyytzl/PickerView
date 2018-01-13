@@ -1,7 +1,7 @@
 # PickerView
 自定义选择器
 版本引用
-allprojects {
+allprojects {br
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
